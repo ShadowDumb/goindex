@@ -1,4 +1,5 @@
 // https://github.com/donwa/goindex/blob/master/使用及免责协议.md
+// https://github.com/ShadowDumb/goindex/blob/master/使用及免责协议.md
 
 var authConfig = {
     "siteName": "GoIndex", // 网站名称
