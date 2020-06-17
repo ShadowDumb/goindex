@@ -21,10 +21,8 @@ classic: [https://indexc.gd.workers.dev/](https://indexc.gd.workers.dev/)
 
 ## Quick Deployment  
 1.Open https://installen.gd.workers.dev/  
-2.Auth and get the code  
+2.[Auth and get the code](https://accounts.google.com/o/oauth2/auth?client_id=202264815644.apps.googleusercontent.com&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&response_type=code&access_type=offline&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&approval_prompt=auto)  
 3.Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)  
-
-
 
 ## About  
 Cloudflare Workers allow you to write JavaScript which runs on all of Cloudflare's 150+ global data centers.  
